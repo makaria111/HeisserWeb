@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/830/932/original/dark-blue-abstract-luxury-background-vector.jpg);
+    ;
+  
+}
+
+.navbar{
+    display: flex;
+    font-size: 6vh;
+    justify-content: space-between;
+    
+    color: antiquewhite;
+    background-color:greenyellow;
+}
+
+.navbar a{
+    color: white;
+    margin-top: 2%;
+    margin-right: 5%;
+}
+.end{
+    background-color: black;
+}
+
+.ending h1{
+    color: white;
+    margin-left: 40%;
+    margin-bottom: 4%;
+}
+.navbar h1{
+    margin-left: 2%;
+}
+h2{
+    color: white;
+    margin-top: 5vh;
+    font-size: 5vh;
+    margin-left: 10%;
+}
+.ending a{
+    color: white;
+    font-size: 5vh;
+    justify-content: space-between;
+    margin-left: 5%;
+    display: flex;
+    
+}
+
+
+h3{
+    color: white;
+    font-size: 5vh;
+    margin-left: 30%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h4{
+    color: aqua;
+    font-size: 50px;
+}
+
+
+h5{
+color: white;
+font-size: 30px;
+}
+
+img{
+    margin-left: 40%;
+}
+
+header h1{
+    color: aqua;
+    font-size: 55px;
+}
+.ending h2{
+    color: white;
+
+}
+.ending p{
+    font-size: 3vh;
+    margin-right: 10%;
+}
+ button{
+    margin-top: 5%;
+    width: 200px;
+    height: 90%;
+    border-radius: 25%;
+    font-size: 3vh;
+ }
+h2{
+    color: white;
+    font-size: 30px;
+}
+
+
+h1{
+    color: aqua;
+    font-size: 55px;
+}
+
+h2{
+    color: white;
+    font-size: 30px;
+}
+
+.ei p{
+    color: white;
+    margin-left: 45%;
+   font-size: 3vh;
+   margin-top: ;
+}
